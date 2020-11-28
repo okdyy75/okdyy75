@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... yabaT ha iizo
 
 ## My Link
+Wantedly  
 https://www.wantedly.com/users/77595232
 
 ## My Portfolio
