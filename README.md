@@ -24,6 +24,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... oka
 - ⚡ Fun fact: ... yabaT ha iizo
 
+## My Link
+https://www.wantedly.com/users/77595232
 
 ## My Portfolio
 
@@ -38,7 +40,3 @@ https://techblog-okdyy75.glideapp.io/
 
 TechTechBlog 技術ブログ(Wordpress)  
 https://techtechblog.herokuapp.com/
-
-テスト画像つくーる  
-https://okdyy75.github.io/test-image-tkool/
-
