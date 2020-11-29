@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ... Anyone!
 - 🤔 I’m looking for help with ... AWS(Infrastructure)
 - 💬 Ask me about ... Backends for PHP, Laravel, SQL, etc...
-- 📫 How to reach me: ... twitter
+- 📫 How to reach me: ... wantedly
 - 😄 Pronouns: ... oka
 - ⚡ Fun fact: ... yabaT wa iizo
 
