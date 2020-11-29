@@ -27,17 +27,3 @@ Here are some ideas to get you started:
 ## My Link
 Wantedly  
 https://www.wantedly.com/users/77595232
-
-## My Portfolio
-
-メモ共有アプリ MemoMemo  
-https://memomemo-e1fe0.firebaseapp.com/
-
-半径検索ツール Hankei250  
-https://okdyy75.github.io/Hankei250/
-
-技術ブログまとめ(NoCode)  
-https://techblog-okdyy75.glideapp.io/
-
-TechTechBlog 技術ブログ(Wordpress)  
-https://techtechblog.herokuapp.com/
