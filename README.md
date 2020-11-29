@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... Backends for PHP, Laravel, SQL, etc...
 - 📫 How to reach me: ... twitter
 - 😄 Pronouns: ... oka
-- ⚡ Fun fact: ... yabaT ha iizo
+- ⚡ Fun fact: ... yabaT wa iizo
 
 ## My Link
 Wantedly  
