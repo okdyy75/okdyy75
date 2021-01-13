@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 
 ## Who am I?
 - 🔭 I’m currently working on ... Food Media Developer
-- 🌱 I’m currently learning ... Terraform, AWS
+- 🌱 I’m currently learning ... AWS
 - 👯 I’m looking to collaborate on ... Anyone!
 - 🤔 I’m looking for help with ... AWS(Infrastructure)
 - 💬 Ask me about ... Backends for PHP, Laravel, SQL, etc...
 - 📫 How to reach me: ... wantedly
-- 😄 Pronouns: ... oka
+- 😄 Pronouns: ... okdyy75
 - ⚡ Fun fact: ... yabaT wa iizo
 
 ## My Link
