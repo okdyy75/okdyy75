@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... Backends for PHP, Laravel, SQL, etc...
 - 📫 How to reach me: ... wantedly
 - 😄 Pronouns: ... okdyy75
-- ⚡ Fun fact: ... yabaT wa iizo
+- ⚡ Fun fact: ... tofu on fire
 
 ## My Link
 Wantedly  
